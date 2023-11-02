@@ -17,5 +17,12 @@ I'd love to connect and feel free to reach out to me at:
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
+
+<br>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennissantoso&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="dennissantoso" /></p>
+
+[![dennissantoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennissantoso&theme=nightowl&show_icons=true)](https://github.com/dennissantoso/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dennissantoso&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
