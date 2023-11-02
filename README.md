@@ -21,8 +21,8 @@ I'd love to connect and feel free to reach out to me at:
 
 <br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennissantoso&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="dennissantoso" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennissantoso&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="dennissantoso" /></p>
 
-[![dennissantoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennissantoso&theme=nightowl&show_icons=true)](https://github.com/dennissantoso/github-readme-stats)
+[![dennissantoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennissantoso&theme=vision-friendly-dark&show_icons=true)](https://github.com/dennissantoso/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dennissantoso&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dennissantoso&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDDD00)](https://git.io/streak-stats)
