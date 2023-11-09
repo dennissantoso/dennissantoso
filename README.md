@@ -5,7 +5,7 @@ Hi, My name is Dennis Santoso, and I am a Senior at the University of California
 I'd love to connect and feel free to reach out to me at:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-dennissantoso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dennissantoso/)]((https://www.linkedin.com/in/dennissantoso/))
+[![Linkedin Badge](https://img.shields.io/badge/-dennissantoso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dennissantoso/)](https://www.linkedin.com/in/dennissantoso/)
 [![Website Badge](https://img.shields.io/badge/-personalWebsite-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://dennissantoso.netlify.app)](https://dennissantoso.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-13dennissantoso@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:13dennissantoso@gmail.com)](mailto:13dennissantoso@gmail.com)
 
