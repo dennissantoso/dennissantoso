@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Hello, My name is Dennis Santoso, and I am a Senior at the University of California, Riverside, working towards a Bachelor's degree in Computer Science. I'm interested in developing web apps and learning new technologies to build unique projects. My professional career prospects include being a Software Engineer, Web Developer, Mobile Developer, UI/UX Designer and AI.
+Hello, My name is Dennis Santoso, and I am a Senior at the University of California, Riverside, working towards a Bachelor's degree in Computer Science. I'm interested in developing web apps and learning new technologies to build unique projects. My professional career prospects include being a Software Engineer, Web Developer, Mobile Developer, UI/UX Designer, and AI.
 
 I'd love to connect and feel free to reach out to me at:
 
