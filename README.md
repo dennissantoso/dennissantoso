@@ -27,4 +27,4 @@ I'd love to connect and feel free to reach out to me at:
 
 [![dennissantoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennissantoso&theme=vision-friendly-dark&show_icons=true)](https://github.com/dennissantoso/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dennissantoso&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dennissantoso&theme=black-ice)](https://git.io/streak-stats)
