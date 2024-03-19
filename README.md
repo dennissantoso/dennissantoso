@@ -23,8 +23,8 @@ I'd love to connect and feel free to reach out to me at:
 
 <br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennissantoso&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="dennissantoso" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennissantoso&show_icons=true&locale=en&layout=compact&theme=holi-theme" alt="dennissantoso" /></p>
 
-[![dennissantoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennissantoso&theme=vision-friendly-dark&show_icons=true)](https://github.com/dennissantoso/github-readme-stats)
+[![dennissantoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennissantoso&theme=holi-theme&show_icons=true)](https://github.com/dennissantoso/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dennissantoso&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dennissantoso&theme=holi-theme)](https://git.io/streak-stats)
